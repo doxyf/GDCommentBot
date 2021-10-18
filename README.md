@@ -19,7 +19,7 @@ Open `config.json` and set
 
 # Problems & bugs
 - Problem: Getting the "-1" response
-- Possible issues: Make sure you entered everything correctly in config file and you're not comment banned.
+- Possible issues: You probably messed up the setup part or you're comment banned or smth
 - 
 - Problem: Getting "500" response
-- Possible issues: RobTop ;)
+- Possible issues: ROBERT TOPALA
