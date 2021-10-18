@@ -1,0 +1,15 @@
+{
+  "name": "gdcomments",
+  "version": "1.0.0",
+  "description": "GD comment bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Foxy#8956",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-base64-encode": "^1.1.0",
+    "request": "^2.88.2"
+  }
+}
