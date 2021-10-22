@@ -5,10 +5,6 @@ const crypto = require('./crypto.js');
 
 setInterval(function(){fetchRecents();}, config.timing);
 
-request.get(`https://gdbrowser.com/api/profile/${config.username}`, function(err, res, body) {
-    acid = body
-});
-
 var defaults = {
     "gameVersion":"21",
     "binaryVersion":"35",
