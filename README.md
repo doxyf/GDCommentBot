@@ -1,3 +1,5 @@
+**THIS REPOSITORY IS NOW OUTDATED, PLEASE USE THE [NEW ONE](https://github.com/doxyf/gdc2)**
+
 # Warning & Disclaimer
 - There's a possibility you will get comment banned.
 - I am not responsible for any damage or anything caused by this tool.
